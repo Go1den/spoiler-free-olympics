@@ -5,7 +5,7 @@ Written by yours truly, Go1den
 
 ## Installing:  
 - Install Stylus (or other similar userstyles extension) on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en).  
-- Download the css files from this project that match the website(s) you are using to watch the Olympics.  
+- [Download the css files](https://github.com/Go1den/spoiler-free-olympics/releases/tag/v1.0.0) from this project that match the website(s) you are using to watch the Olympics.  
 - Click on the Stylus extension icon, then select "Manage" in the bottom left.  
 - Click Import, then select the css file(s) you downloaded.  
 - These should now show up in your managed files section. You can then open them individually to edit them further to your liking.
