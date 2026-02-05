@@ -4,7 +4,7 @@ A collection of custom userstyles for browsing Olympics VOD websites spoiler-fre
 Written by yours truly, Go1den
 
 ## Installing:  
-- [Download the css files](https://github.com/Go1den/spoiler-free-olympics/releases/download/v1.0.0/2026.-.Milan.zip) from this project that match the website(s) you are using to watch the Olympics.
+- [Download the css files](https://github.com/Go1den/spoiler-free-olympics/releases/download/v1.0.0/2026.-.Milan.zip) from this project
 - Unzip the downloaded folder
 - Install Stylus (or other similar userstyles extension) on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en).  
 - Click on the Stylus extension icon, then select "Manage" in the bottom left.  
