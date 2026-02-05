@@ -3,8 +3,8 @@
 A collection of custom userstyles for browsing Olympics VOD websites spoiler-free  
 Written by yours truly, Go1den
 
-## How to use:  
-- Install Stylus (or other similar userstyles extension) on Firefox or Chrome.  
+## Installing:  
+- Install Stylus (or other similar userstyles extension) on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en).  
 - Download the css files from this project that match the website(s) you are using to watch the Olympics.  
 - Click on the Stylus extension icon, then select "Manage" in the bottom left.  
 - Click Import, then select the css file(s) you downloaded.  
