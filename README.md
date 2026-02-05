@@ -7,4 +7,6 @@ Written by yours truly, Go1den
 - Download the css files from this project that match the website(s) you are using to watch the Olympics.  
 - Click on the Stylus extension icon, then select "Manage" in the bottom left.  
 - Click Import, then select the css file(s) you downloaded.  
-- These should now show up in your managed files section. You can then open them individually to edit them further to your liking.  
+- These should now show up in your managed files section. You can then open them individually to edit them further to your liking.
+
+I recommend using both the Olympics.com css and the PeacockTV.com css. I like to browse the schedule on Olympics.com and when I find something I want to watch, I navigate to Peacock from within the Olympics.com site.
