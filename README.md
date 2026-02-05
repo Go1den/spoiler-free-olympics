@@ -1,6 +1,6 @@
 # Spoiler Free Olympics
 ![Olympic Rings](https://deadline.com/wp-content/uploads/2025/03/GettyImages-2205872583.jpg?w=681&h=383&crop=1)  
-Watch the Olympics spoiler-free (or as close as you can get these days)
+Watch the Olympics spoiler-free (or as close as you can get these days)  
 Written by yours truly, Go1den
 
 ## Installing:  
