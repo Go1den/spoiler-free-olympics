@@ -1,5 +1,5 @@
 # Spoiler Free Olympics
-A collection of custom userstyles for browsing Olympics VOD websites spoiler-free
+A collection of custom userstyles for browsing Olympics VOD websites spoiler-free  
 Written by yours truly, Go1den
 
 ## How to use:  
