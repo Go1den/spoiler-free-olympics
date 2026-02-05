@@ -1,0 +1,95 @@
+/* ==UserStyle==
+@name           Spoiler Free Olympics - 2026 - PeacockTV.com
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    https://github.com/Go1den/spoiler-free-olympics
+@author         Go1den
+==/UserStyle== */
+
+@-moz-document url-prefix("https://www.peacocktv.com/watch/") {
+    
+    /**
+    OLYMPICS SPOILER FREE SCRIPT BY GOLDEN
+    AVAILABLE AT GITHUB.COM/GO1DEN
+    How to use:
+    Each section below describes what it is hiding. If you want to see that thing instead, simply delete it from this script.
+    **/
+    
+    /**
+        ---UNIVERSAL SETTINGS---
+    **/
+    
+    /* Hides ALL thumbnail headlines (this is mildly annoying for navigation, so you may want to remove this, but some thumbnail titles will contain spoilers) */
+    h4 {
+        display: none !important; 
+    }
+    
+    /* Hides ALL Highlights rails on all pages, as these clips are often spoiler heavy 
+       Note: if you want specific athletes' highlight rails to show up still, simply change this section to say "highlights-1" instead of "highlights" */
+    div[data-testid*="highlights"] {
+        display: none;
+    }
+    
+    /**
+        ---MAIN OLYMPICS PAGE SETTINGS---
+    **/
+    
+    /* Hides the automatic slideshow preview on the main Olympics page */
+    #immersivehero {
+        display: none;
+    }
+    
+    /* Slide the rails down slightly, useful for when #immersivehero is set to display: none as it is above */
+    #rails {
+        padding-top: 60px;
+    }
+    
+    /* Hides the Replay section, because it contains spoilers and the sport-specific pages do not */
+    div[data-testid="/watch/sports/milan-cortina-olympics-olympics-replays"] {
+        display: none;
+    }
+    
+    /* Hides the Medal Count rail on the main page*/
+    div[data-testid="/watch/sports/milan-cortina-olympics-olympics-interactive-schedule-and-medal-standings"]{
+        display: none;
+    }
+    
+    /**
+        ---SETTINGS THAT APPLY TO EACH SPORT'S LANDING PAGE---
+    **/
+    
+    /* Hides the JUMBO thumbnails on each sport's landing page, because they're huge and stupid */
+    div[data-testid*="hero"] {
+        display: none;
+    }
+    
+    /* Hides the "Best of" section on each sport's landing page, because these will be highlight reels with spoilers */
+    div[data-testid*="after-the-bell"] {
+        display: none;
+    }
+    
+    /**
+        ---VIDEO SELECT AND PLAYBACK SCREEN SETTINGS---
+    **/
+    
+    /* Hides the runtime of the currently selected video (the current elapsed time is still shown) */
+    .program-details__metadata-item--runtime {
+        display: none;
+    }
+    
+    /* Hides the 1-2 sentence synopsis of the currently selected video */
+    .program-details__synopsis {
+        display: none;
+    }
+    
+    /* Hides the runtime on the playblack slider at the bottom of the video player */
+    .playback-time-elapsed__container_missing-time {
+        display: none;
+    }
+    
+    /* Hides the "You May Also Like" section on landing pages for videos you can resume playing */
+    .scroll-section-recommendations-desktop {
+        display: none;
+    }
+    
+}
