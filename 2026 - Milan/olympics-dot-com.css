@@ -22,7 +22,7 @@
         font-weight: 400 !important; 
     }
     
-    /* Hides the teams participating in each contest - THIS MAY MAKE NAVIGATION OF THE SITE DIFFICULT */
+    /* Hides the teams participating in each contest - THIS MAY MAKE IT HARDER TO FIND A SPECIFIC TEAM OR REPLAY */
     div[data-testid="dailyScheduleEvent"] > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) {
         display: none;
     }
