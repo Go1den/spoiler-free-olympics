@@ -11,4 +11,9 @@ Written by yours truly, Go1den
 - Repeat the previous two steps for each css file you want to import.  
 - These should now show up in your managed files section. You can then open them individually to edit them further to your liking.
 
-I recommend using both the Olympics.com css and the PeacockTV.com css userstyles I've provided. I like to browse the schedule on Olympics.com and when I find something I want to watch, I navigate to Peacock from within the Olympics.com site.
+## Navigating Spoiler-Free:
+You can use these css files individually and they will mostly do the job, but if you want to navigate like a pro, I recommend the following. This assumes you have both the Olympics.com and PeacockTV.com css userstyles imported.
+
+1) Go to Olympics.com
+2) Notice that most of the page has been disabled for you to avoid spoilers. Select "Schedule & Results".
+3) The spoiler-free schedule should now be loading. To watch a VOD, click on the triple dots icon &#8942;
