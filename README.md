@@ -1,5 +1,5 @@
 # Spoiler Free Olympics
-![Olympic Rings](https://deadline.com/wp-content/uploads/2025/03/GettyImages-2205872583.jpg?w=681&h=383&crop=1)
+![Olympic Rings](https://deadline.com/wp-content/uploads/2025/03/GettyImages-2205872583.jpg?w=681&h=383&crop=1)  
 A collection of custom userstyles for browsing Olympics VOD websites spoiler-free  
 Written by yours truly, Go1den
 
