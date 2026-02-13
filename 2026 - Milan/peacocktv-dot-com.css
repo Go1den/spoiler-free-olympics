@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Spoiler Free Olympics - 2026 - PeacockTV.com
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.0.1
 @description    https://github.com/Go1den/spoiler-free-olympics
 @author         Go1den
 ==/UserStyle== */
@@ -53,6 +53,11 @@
     div[data-testid="/watch/sports/milan-cortina-olympics-olympics-interactive-schedule-and-medal-standings"]{
         display: none;
     }
+
+    /* Hides the Gold Medal Moments section */
+    div[data-testid="/watch/sports/milan-cortina-olympics-olympics-gold-medal-moments"] {
+        display: none;
+    }
     
     /**
         ---SETTINGS THAT APPLY TO EACH SPORT'S LANDING PAGE---
@@ -71,6 +76,11 @@
     /**
         ---VIDEO SELECT AND PLAYBACK SCREEN SETTINGS---
     **/
+
+    /* Hides the additional info when a video is selected */
+    .program-details__additional-info {
+        display: none;
+    }
     
     /* Hides the runtime of the currently selected video (the current elapsed time is still shown) */
     .program-details__metadata-item--runtime {
