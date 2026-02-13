@@ -1,12 +1,16 @@
 # Spoiler Free Olympics
 ![Olympic Rings](https://deadline.com/wp-content/uploads/2025/03/GettyImages-2205872583.jpg?w=681&h=383&crop=1)  
-A collection of custom userstyles for browsing Olympics VOD websites spoiler-free  
+Watch the Olympics spoiler-free (or as close as you can get these days)  
 Written by yours truly, Go1den
 
 ## Installing:  
+- [Download the css files](https://github.com/Go1den/spoiler-free-olympics/releases/download/v1.0.0/2026.-.Milan.zip) from this project
+- Unzip the downloaded folder
 - Install Stylus (or other similar userstyles extension) on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en).  
-- [Download the css files](https://github.com/Go1den/spoiler-free-olympics/releases/tag/v1.0.0) from this project that match the website(s) you are using to watch the Olympics.  
 - Click on the Stylus extension icon, then select "Manage" in the bottom left.  
 - Click Import, then select a css file.
-- Repeat the previous two steps for each css file you want to import.  
-- These should now show up in your managed files section. Make sure the files are enabled. You can then open them individually to edit them further to your liking. Click Save to apply any changes you make.
+- The style file should now show up in your managed files section. Make sure it is enabled. You can then open the file to edit it further to your liking. Settings changes should update in real time, so you can play around with them to see what you like and don't like.  
+- Click Save to apply any changes you make.
+
+## Did you find this useful?
+Click the "Star" at the top of this page!
