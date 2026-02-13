@@ -83,7 +83,7 @@
     }
     
     /* Hides the runtime on the playblack slider at the bottom of the video player */
-    .playback-time-elapsed__container_missing-time {
+    .playback-time-elapsed__container_missing-time, time[data-testid*="duration-time"] {
         display: none;
     }
     
